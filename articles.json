@@ -1,33 +1,37 @@
 [
-    {
-        "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
-        "title": "The Rolling Stones Announce New Album 'Hackney Diamonds'",
-        "content": "The Rolling Stones have officially announced their first album of original material in 18 years...",
-        "author": "Mick Jagger",
-        "date": "2023-09-06T12:00:00Z",
-        "category": "News",
-        "imageUrls": ["https://example.com/stones.jpg"]
-    },
-    {
-        "id": "b2c3d4e5-f6a7-8901-2345-67890abcdef0",
-        "title": "U2:UV Achtung Baby Live At Sphere",
-        "content": "U2 has announced a new run of dates for their residency in Las Vegas...",
-        "author": "Bono",
-        "date": "2023-10-12T15:30:00Z",
-        "category": "Live",
-        "imageUrls": [
-            "https://media.brooklynvegan.com/xxrzsfjkyw/styles/gallery-inline-landscape/2023/09/30/1709324482.jpg.webp?t=8364fb73.webp",
-            "https://example.com/u2_live_2.jpg",
-            "https://example.com/u2_live_3.jpg"
-        ]
-    },
-    {
-        "id": "c3d4e5f6-a7b8-9012-3456-7890abcdef01",
-        "title": "Review: 'The Bends' by Radiohead",
-        "content": "A timeless classic that marked a turning point for the band...",
-        "author": "Thom Yorke",
-        "date": "1995-03-13T00:00:00Z",
-        "category": "Album Reviews",
-        "imageUrls": ["https://example.com/the_bends_cover.jpg"]
-    }
+  {
+    "id" : "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+    "title" : "Radiohead announce new album and world tour",
+    "content" : "Radiohead news includes the band forming a new business entity, RHEUK25 LLP, which has fueled speculation about a potential return to music or touring. Now the internet is exploding: Radiohead is releasing the succesor of \"Moon Shaped Pool\" (2016). ",
+    "author" : "Radiohead",
+    "date" : "2025-06-024T12:00:00Z",
+    "category" : "News",
+    "imageUrls" : [
+      "https://example.com/stones.jpg"
+    ]
+  },
+  {
+    "id" : "b2c3d4e5-f6a7-8901-2345-67890abcdef0",
+    "title" : "Wilco live at Best Kept Secret 2025",
+    "content" : "Wilco played last Sunday on stage ONE of Best Kept Secret. MIE was there too tell you the story.",
+    "author" : "Wilco",
+    "date" : "2023-10-12T15:30:00Z",
+    "category" : "Live",
+    "imageUrls" : [
+      "https://media.brooklynvegan.com/xxrzsfjkyw/styles/gallery-inline-landscape/2023/09/30/1709324482.jpg.webp?t=8364fb73.webp",
+      "https://example.com/u2_live_2.jpg",
+      "https://example.com/u2_live_3.jpg"
+    ]
+  },
+  {
+    "id" : "c3d4e5f6-a7b8-9012-3456-7890abcdef01",
+    "title" : "The Bends | Radiohead",
+    "content" : "A timeless classic that marked a turning point for the band...",
+    "author" : "Thom Yorke",
+    "date" : "1995-03-13T00:00:00Z",
+    "category" : "Album Reviews",
+    "imageUrls" : [
+      "https://example.com/the_bends_cover.jpg"
+    ]
+  }
 ]
