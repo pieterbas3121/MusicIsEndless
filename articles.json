@@ -1,0 +1,26 @@
+[
+    {
+        "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+        "title": "The Rolling Stones Announce New Album 'Hackney Diamonds'",
+        "content": "The Rolling Stones have officially announced their first album of original material in 18 years, titled 'Hackney Diamonds'. The album is set to be released on October 20th. The first single, 'Angry', is out now.",
+        "author": "Mick Jagger",
+        "date": "2023-09-06T12:00:00Z",
+        "category": "News"
+    },
+    {
+        "id": "b2c3d4e5-f6a7-8901-2345-67890abcdef0",
+        "title": "U2:UV Achtung Baby Live At Sphere",
+        "content": "U2 has announced a new run of dates for their 'U2:UV Achtung Baby Live At Sphere' residency in Las Vegas. The new dates extend the residency into 2024.",
+        "author": "Bono",
+        "date": "2023-10-12T15:30:00Z",
+        "category": "Live"
+    },
+    {
+        "id": "c3d4e5f6-a7b8-9012-3456-7890abcdef01",
+        "title": "Review: 'The Bends' by Radiohead",
+        "content": "A timeless classic that marked a turning point for the band. 'The Bends' is a masterclass in songwriting and sonic exploration, and it remains one of the most influential albums of the 90s.",
+        "author": "Thom Yorke",
+        "date": "1995-03-13T00:00:00Z",
+        "category": "Album Reviews"
+    }
+]
